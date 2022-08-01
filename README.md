@@ -1,24 +1,52 @@
-# README
+# Rails Budget App
+> A Ruby on Rails capstone project about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spent and on what, and that allows the user to:
+ - Register and log in so that the data is private to them.
+ - Introduce new transactions associated with a category.
+ - See the money spent on each category.
+## Live Demo
+ [Live link]()
+## prerequisites
+``` 
+  Ruby
+  rails version 7.x gem package 
+```
+### Development (Running locally)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- git clone the project
 
-Things you may want to cover:
+```bash 
+git clone https://github.com/Debas-31/rails-budget-app.git
+```
 
-* Ruby version
+- Install Dependencies
 
-* System dependencies
+```bash
+bundle install
+```
 
-* Configuration
 
-* Database creation
+👤 **Debas Gebreslasie**
 
-* Database initialization
+- [GitHub](https://github.com/Debas-31)
+- [Twitter](https://twitter.com/DEBSH76956492)
+- [LinkedIn](https://www.linkedin.com/in/debas-gebrengus)
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues and feature requests are welcome!
 
-* Deployment instructions
+Feel free to check the [issues page](https://github.com/Debas-31/rails-budget-app/issues).
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Ruby Community
+- rails developers
+- Gregoire Vella former product designer and Adobe Creative Cloud
+
+## 📝 License
+
+[MIT licensed](https://github.com/Debas-31/rails-budget-app/blob/dev/LICENSE).
+```
