@@ -14,5 +14,4 @@ class User < ApplicationRecord
   def admin?(requested_role)
     role == requested_role.to_s
   end
-  
 end
