@@ -3,12 +3,12 @@
   <%= form_with url: groups_path, scope: :group do |form| %>
     <div class="mt-2">
       <%= form.label :Name %> <br>
-      <%= form.text_field :name, class: 'mt-2 w-56 p-1', require: true %>
+      <%= form.text_field :name, class: 'mt-2 w-56 p-1 rounded', require: true %>
     </div>
 
     <div class="mt-2">
       <%= form.label :Name %> <br>
-      <%= form.text_field :name, class: 'mt-2 w-56 p-1', require: true %>
+      <%= form.text_field :name, class: 'mt-2 w-56 p-1 rounded', require: true %>
     </div>
     <%= form_with.submit "Submit", class: "bg-sky-400 p-2 rounded text-slate-50 mt-4"%>
   <% end %>
