@@ -1,0 +1,4 @@
+example_id                                                                                                          | status | run_time        |
+------------------------------------------------------------------------------------------------------------------- | ------ | --------------- |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/user_spec.rb[1:1:1] | passed | 0.00695 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/user_spec.rb[1:1:2] | passed | 0.19082 seconds |
