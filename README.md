@@ -15,14 +15,14 @@
  <img src="./app/assets/images/transaction.png" />
  <img src="./app/assets/images/addCatagory.png" />
 </div>
-## Built With
 
+## Built With
 - Ruby
 - Ruby on Rails
 - HTML
 - TailwindCSS and CSS
 ## Live Demo
- [Live link]()
+ [Live link](https://serene-ocean-56296.herokuapp.com/)
 ## prerequisites
 ``` 
   Ruby
