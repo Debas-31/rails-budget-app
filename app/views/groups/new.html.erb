@@ -14,10 +14,10 @@
       <%= form.text_field :name, class: 'mt-2 w-56 p-1 rounded', require: true %>
     </div>
     <div class="mt-2">
-      <%= form.label :Name %> <br>
-      <%= form.text_field :name, class: 'mt-2 w-56 p-1 rounded', require: true %>
+      <%= form.label :icon_link %> <br>
+      <%= form.text_field :icon, class: 'mt-2 w-56 p-1 rounded', require: true %>
     </div>
-    <%= form_with.submit "Submit", class: "bg-sky-400 p-2 rounded text-slate-50 mt-4"%>
-    <%= link_to 'Back', groups_path, class: "bg-sky-400 rounded text-slate-50 mt-4 ml-20 px-4 py-3" %>
+    <%= form.submit "Submit", class: "bg-sky-400 p-2 rounded text-slate-50 mt-4"%>
+    <%= link_to 'Back', groups_path, class: "bg-sky-400 rounded text-slate-50 mt-4 ml-20 px-4 py-2" %>
   <% end %>
 </div>
