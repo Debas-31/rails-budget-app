@@ -3,10 +3,10 @@ class GroupsController < ApplicationController
     @groups = current_user.groups.order(created_at: :desc).all
     @total_amount = []
 
-    @groups.each do |group| 
-      total =0;
+    @groups.each do |group|
+      total = 0
       group.group_expenses.each do |group_expense|
-        total +=group_expense.expense.amount
+        total += group_expense.expense.amount
       end
       @total_amount.push(total)
     end
