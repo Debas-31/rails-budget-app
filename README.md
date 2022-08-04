@@ -3,6 +3,24 @@
  - Register and log in so that the data is private to them.
  - Introduce new transactions associated with a category.
  - See the money spent on each category.
+
+## Screenshot views
+<div style="display: flex; flex-direction: row;">
+  <img src="./app/assets/images/homePage.png" /> 
+  <img src="./app/assets/images/signup.png" />
+  <img src="./app/assets/images/login.png" />
+</div>
+<hr>
+<div style="display: flex; flex-direction: row;">
+ <img src="./app/assets/images/transaction.png" />
+ <img src="./app/assets/images/addCatagory.png" />
+</div>
+## Built With
+
+- Ruby
+- Ruby on Rails
+- HTML
+- TailwindCSS and CSS
 ## Live Demo
  [Live link]()
 ## prerequisites
@@ -16,6 +34,7 @@
 
 ```bash 
 git clone https://github.com/Debas-31/rails-budget-app.git
+cd rails-budget-app
 ```
 
 - Install Dependencies
