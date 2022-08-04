@@ -13,13 +13,13 @@ class ExpensesController < ApplicationController
     @expense = Expense.new
   end
 
-  def Create
+  def create
     @new_expense = current_user.expenses.new(expense_params)
     if @new_expense.save
       GroupExpense.create(group_id: params[:group_id], expense_id: @new_expense.id)
       redirect_to group_expenses_path(params[:group_id]), flash: { alert: 'Your transaction is registered' }
     else
-      redirect_to new_group-expense_path, flash: { alert: 'Could not register your transaction'}
+      redirect_to new_group_expense_path, flash: { alert: 'Could not register your transaction' }
     end
   end
 

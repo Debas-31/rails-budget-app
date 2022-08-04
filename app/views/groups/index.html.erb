@@ -4,6 +4,7 @@
     <%= link_to group_expenses_path(group.id), class: do %>
       <div class="flex bg-slate-50 group-card rounded p-4 mb-4 w-96">
         <%= image_tag group.icon, alt: 'icon', class: "w-28" %>
+        
         <div class="ml-5 grow text-gray-500 font-medium">
           <p class="text-lg"><%= group.name %></p>
           <p class="mt-14 text-xs"><%= group.created_at.strftime('%d %h %Y') %></p>
