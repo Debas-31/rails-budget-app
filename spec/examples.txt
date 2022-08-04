@@ -1,13 +1,19 @@
-example_id                                                                                                             | status | run_time        |
----------------------------------------------------------------------------------------------------------------------- | ------ | --------------- |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:1] | passed | 0.00153 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:2] | passed | 0.0017 seconds  |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:3] | passed | 0.00133 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:4] | passed | 0.05427 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:5] | passed | 0.00144 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:1]   | passed | 0.00189 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:2]   | passed | 0.00145 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:3]   | passed | 0.08023 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:4]   | passed | 0.00147 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/user_spec.rb[1:1:1]    | passed | 0.00695 seconds |
-/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/user_spec.rb[1:1:2]    | passed | 0.19082 seconds |
+example_id                                                                                                                          | status | run_time        |
+----------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:1]              | passed | 0.00153 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:2]              | passed | 0.0017 seconds  |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:3]              | passed | 0.00133 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:4]              | passed | 0.05427 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/expense_spec.rb[1:1:5]              | passed | 0.00144 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:1]                | passed | 0.00189 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:2]                | passed | 0.00145 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:3]                | passed | 0.08023 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/group_spec.rb[1:1:4]                | passed | 0.00147 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/user_spec.rb[1:1:1]                 | passed | 0.00695 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/models/user_spec.rb[1:1:2]                 | passed | 0.19082 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/views/logins/login.html.erb_spec.rb[1:1]   | passed | 0.01363 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/views/logins/login.html.erb_spec.rb[1:2]   | passed | 0.01064 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/views/logins/login.html.erb_spec.rb[1:3]   | passed | 5.84 seconds    |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/views/logins/login.html.erb_spec.rb[1:4:1] | passed | 0.03052 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/views/logins/login.html.erb_spec.rb[1:4:2] | passed | 0.02954 seconds |
+/home/debas/Desktop/Microverse +/Microverse/Rails-module/week-five/rails-budget-app/spec/views/logins/login.html.erb_spec.rb[1:4:3] | passed | 0.33912 seconds |
