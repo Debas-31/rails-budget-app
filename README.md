@@ -1,8 +1,8 @@
 # Rails Budget App
-> A Ruby on Rails capstone project about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spent and on what, and that allows the user to:
- - Register and log in so that the data is private to them.
- - Introduce new transactions associated with a category.
- - See the money spent on each category.
+> A Ruby on Rails capstone project about building a mobile web application where you can manage your budget: you have a list of transactions associated     with a category so that you can see how much money you spent and on what, and that allows the user to:
+  - Register and log in so that the data is private to them.
+  - Introduce new transactions associated with a category.
+  - See the money spent on each category.
 
 ## Screenshot views
 <div style="display: flex; flex-direction: row;">
@@ -19,28 +19,76 @@
 ## Built With
 - Ruby
 - Ruby on Rails
+- PostgreSQL
 - HTML
 - TailwindCSS and CSS
 ## Live Demo
  [Live link](https://serene-ocean-56296.herokuapp.com/)
 ## prerequisites
-``` 
-  Ruby
-  rails version 7.x gem package 
-```
+- Text editor
+- Ruby
+- Ruby on Rails
+- PostgresSQL
+- Rspec
 ### Development (Running locally)
 
 - git clone the project
 
 ```bash 
 git clone https://github.com/Debas-31/rails-budget-app.git
+
 cd rails-budget-app
 ```
 
-- Install Dependencies
 
-```bash
+### Setup
+
+Install gems with:
+
+```
 bundle install
+```
+
+Setup database with:
+
+```
+rails db:create
+rails db:migrate
+```
+
+### Usage
+
+Start server with:
+
+```
+rails server
+```
+
+Visit http://localhost:3000/ in your browser.
+
+### Run tests
+
+Install npm with:
+
+```
+npm i
+```
+
+Install rspec with:
+
+```
+bundle install
+```
+Generate rspec:
+
+```
+rails generate rspec:install
+```
+
+Run the test with:
+
+```
+rspec spec
 ```
 
 
