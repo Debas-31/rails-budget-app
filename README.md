@@ -23,7 +23,7 @@
 - HTML
 - TailwindCSS and CSS
 ## Live Demo
- [Live link](https://serene-ocean-56296.herokuapp.com/)
+ [Live link demo](https://serene-ocean-56296.herokuapp.com/)
 ## prerequisites
 - Text editor
 - Ruby
